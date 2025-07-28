@@ -78,6 +78,3 @@ curl -X POST http://localhost:5000/twilio-webhook \
 - `.env`: Environment variables (not committed to version control)
 - `.gitignore`: Specifies intentionally untracked files to ignore
 
-## License
-
-[Specify your license here]
